@@ -15,3 +15,7 @@ ___
 - Javier Alejandro Gutierrez de León - 202004765
 - Angel Miguel García Urizar - 201901421
 - Alejandro Leonardo Yac Pérez – 201700315
+
+
+## Manual [Actividad1_Grupo8.pdf](https://github.com/FabianReyna/Actividad1/files/7016326/Actividad1_Grupo8.pdf)
+
